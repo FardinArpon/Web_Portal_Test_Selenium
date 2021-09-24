@@ -33,5 +33,8 @@ gradle clean test
 allure generate allure-results --clean -o allure-report
 allure serve allure-results
 ```
-## Report View
-https://drive.google.com/file/d/1tOizMd2quJx4b7ffopZ5ewCi6YQLnQbv/view?usp=sharing
+## Report View & Screen Rec. 
+## https://drive.google.com/file/d/19qNEPCCq74EF70hbRqWR7BEhqv7iwK8k/view?usp=sharing
+
+![image](https://user-images.githubusercontent.com/87892957/134741387-693c7fb6-bc88-492d-a23f-080049215dc6.png)
+
