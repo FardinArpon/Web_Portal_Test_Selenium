@@ -1,7 +1,7 @@
 # Web_Portal_Test-Automation_Selenium_Junit-Gradle
 
 I test Green University student web portal functional test in JUnit Selenium
-Please Watch Screen rec. for better Understanding my project.
+After read this Please Watch Test Repoet & Screen rec. for better understanding my project. Link is down below.
 
 ## Technology:
 - Tool: selenium
